@@ -1,1 +1,0 @@
-# ishisora.github.io
