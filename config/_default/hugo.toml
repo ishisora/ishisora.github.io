@@ -4,9 +4,7 @@
 
 theme = "blowfish"
 # baseURL = "https://ishisora.github.io/"
-defaultContentLanguage = "en"
-
-publishDir = "docs"
+defaultContentLanguage = "ja"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
